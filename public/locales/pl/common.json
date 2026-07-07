@@ -466,6 +466,11 @@
         "lxc": "Kontenery LXC",
         "vms": "Maszyn wirtualnych"
     },
+    "pulse": {
+        "nodes": "Węzły",
+        "vms": "Maszyny",
+        "lxcs": "Kontenery LXC"
+    },
     "glances": {
         "cpu": "Procesor",
         "load": "Obciążenie",

@@ -432,7 +432,7 @@
         "numActiveSessions": "Сессии",
         "numConnections": "Соединения",
         "dataRelayed": "Ретранслировано",
-        "transferRate": "Rate"
+        "transferRate": "Цена"
     },
     "mastodon": {
         "user_count": "Пользователи",
@@ -465,6 +465,11 @@
         "cpu": "ЦП",
         "lxc": "LXC",
         "vms": "Виртуальные машины"
+    },
+    "pulse": {
+        "nodes": "Nodes",
+        "vms": "VMs",
+        "lxcs": "LXCs"
     },
     "glances": {
         "cpu": "ЦП",
